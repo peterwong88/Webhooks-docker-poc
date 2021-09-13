@@ -5548,24 +5548,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lesja\\.nuget\\packages\\": {},
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\S3\\E7\\TravelAgentWeb\\TravelAgentWeb.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Downloads\\Webhooks+with+.NET+5\\travelagentweb\\TravelAgentWeb.csproj",
       "projectName": "TravelAgentWeb",
-      "projectPath": "D:\\S3\\E7\\TravelAgentWeb\\TravelAgentWeb.csproj",
-      "packagesPath": "C:\\Users\\lesja\\.nuget\\packages\\",
-      "outputPath": "D:\\S3\\E7\\TravelAgentWeb\\obj\\",
+      "projectPath": "C:\\Users\\user\\Downloads\\Webhooks+with+.NET+5\\travelagentweb\\TravelAgentWeb.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Downloads\\Webhooks+with+.NET+5\\travelagentweb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\lesja\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -5641,7 +5647,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
