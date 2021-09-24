@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Downloads\\Webhooks+with+.NET+5\\travelagentweb\\TravelAgentWeb.csproj": {}
+    "C:\\Users\\user\\Downloads\\Webhooks+with+.NET+5\\TravelAgentWeb\\TravelAgentWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Downloads\\Webhooks+with+.NET+5\\travelagentweb\\TravelAgentWeb.csproj": {
+    "C:\\Users\\user\\Downloads\\Webhooks+with+.NET+5\\TravelAgentWeb\\TravelAgentWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Downloads\\Webhooks+with+.NET+5\\travelagentweb\\TravelAgentWeb.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Downloads\\Webhooks+with+.NET+5\\TravelAgentWeb\\TravelAgentWeb.csproj",
         "projectName": "TravelAgentWeb",
-        "projectPath": "C:\\Users\\user\\Downloads\\Webhooks+with+.NET+5\\travelagentweb\\TravelAgentWeb.csproj",
+        "projectPath": "C:\\Users\\user\\Downloads\\Webhooks+with+.NET+5\\TravelAgentWeb\\TravelAgentWeb.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Downloads\\Webhooks+with+.NET+5\\travelagentweb\\obj\\",
+        "outputPath": "C:\\Users\\user\\Downloads\\Webhooks+with+.NET+5\\TravelAgentWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
